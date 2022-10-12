@@ -18,6 +18,7 @@
   <img alt="JS" src="https://github.com/AvilaKevin/portfolio/blob/master/src/assets/javascript.png?raw=true" width="50px">
   <img alt="React" src="https://github.com/AvilaKevin/portfolio/blob/master/src/assets/react.png?raw=true" width="50px">
   <img alt="Tailwind Css" src="https://github.com/AvilaKevin/portfolio/blob/master/src/assets/tailwind.png?raw=true" width="50px">
+  <img alt="Firebase Css" src="https://github.com/AvilaKevin/portfolio/blob/master/src/assets/firebase.png?raw=true" width="50px">
   
 </p>
 
