@@ -22,7 +22,8 @@
   <img alt="Mongo DB" src="![image](https://github.com/AvilaKevin/AvilaKevin/assets/70970550/66f1974b-5a2b-4fa4-926a-e6a2e8d2a976)" width="50px">
   <img alt="Mongoose" src="https://github.com/AvilaKevin/portfolio/blob/master/src/assets/react.png?raw=true" width="50px">
   
-  
+  ![image](https://github.com/AvilaKevin/AvilaKevin/assets/70970550/b11eb89f-6525-4fa8-8987-2e9c27ac7d7f)
+
   <img alt="Tailwind Css" src="https://github.com/AvilaKevin/portfolio/blob/master/src/assets/tailwind.png?raw=true" width="50px">
   <img alt="Firebase Css" src="https://github.com/AvilaKevin/portfolio/blob/master/src/assets/firebase.png?raw=true" width="50px">
   
