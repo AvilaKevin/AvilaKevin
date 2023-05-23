@@ -17,8 +17,18 @@
   <img alt="Css" src="https://github.com/AvilaKevin/portfolio/blob/master/src/assets/css.png?raw=true" width="50px">
   <img alt="JS" src="https://github.com/AvilaKevin/portfolio/blob/master/src/assets/javascript.png?raw=true" width="50px">
   <img alt="React" src="https://github.com/AvilaKevin/portfolio/blob/master/src/assets/react.png?raw=true" width="50px">
+  <img alt="Node Js" src="[https://github.com/AvilaKevin/portfolio/blob/master/src/assets/firebase.png?raw=true](https://nodejs.org/static/images/logo.svg)" width="50px">
+  <img alt="Express Js" src="https://github.com/AvilaKevin/portfolio/blob/master/src/assets/react.png?raw=true" width="50px">
+  <img alt="Mongo DB" src="![image](https://github.com/AvilaKevin/AvilaKevin/assets/70970550/66f1974b-5a2b-4fa4-926a-e6a2e8d2a976)" width="50px">
+  <img alt="Mongoose" src="https://github.com/AvilaKevin/portfolio/blob/master/src/assets/react.png?raw=true" width="50px">
+  
+  
   <img alt="Tailwind Css" src="https://github.com/AvilaKevin/portfolio/blob/master/src/assets/tailwind.png?raw=true" width="50px">
   <img alt="Firebase Css" src="https://github.com/AvilaKevin/portfolio/blob/master/src/assets/firebase.png?raw=true" width="50px">
+  
+  
+  
+
   
 </p>
 
