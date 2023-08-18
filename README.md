@@ -23,7 +23,8 @@
   <img alt="Mongoose" src="https://github.com/AvilaKevin/AvilaKevin/assets/70970550/a54947a5-0916-4aa6-b766-6df42890e658" width="70px">
   <img alt="Tailwind Css" src="https://github.com/AvilaKevin/portfolio/blob/master/src/assets/tailwind.png?raw=true" width="50px">
   <img alt="Firebase Css" src="https://github.com/AvilaKevin/portfolio/blob/master/src/assets/firebase.png?raw=true" width="50px">
-  
+  <img alt="Java Css" src="https://github.com/AvilaKevin/AvilaKevin/assets/70970550/08d23320-1cb8-4135-859a-e0fe7191bc4a" width="110px">
+
 </p>
 
 <h2> How to reach me 📫</h2>
